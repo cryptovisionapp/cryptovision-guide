@@ -1,0 +1,18 @@
+{
+  "name": "cryptovision-guide",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "moscat",
+    "email": "moscat.jp@gmail.com"
+  },
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "UNLISENSED",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
