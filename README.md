@@ -1,1 +1,1 @@
-# BC Manager Guide
+# Crypto Vision Guide
