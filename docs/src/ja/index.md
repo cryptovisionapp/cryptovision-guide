@@ -2,6 +2,6 @@
 home: true
 heroImage: /logoicon.svg
 tagline:
-actionText: Check Guide
-actionLink: /guide/
+actionText: ガイドを見る
+actionLink: /ja/guide/
 ---

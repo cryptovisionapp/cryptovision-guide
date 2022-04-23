@@ -1,4 +1,4 @@
-# Guide for Crypto Vision
+# Guide for CryptoVision
 
 ## Account
 
