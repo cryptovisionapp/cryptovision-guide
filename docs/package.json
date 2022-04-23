@@ -1,7 +1,7 @@
 {
   "name": "cryptovision-guide",
   "version": "0.0.1",
-  "description": "",
+  "description": "Guide for CryptoVision",
   "main": "index.js",
   "authors": {
     "name": "moscat",
@@ -13,6 +13,8 @@
   },
   "license": "UNLISENSED",
   "devDependencies": {
-    "vuepress": "^1.5.3"
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-seo": "^0.1.4",
+    "vuepress-plugin-sitemap": "^2.3.1"
   }
 }

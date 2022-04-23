@@ -16,10 +16,17 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
+    ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-LJTSY1CPNY' }],
+    [
+      'script',
+      {},
+      [
+        `window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\n\ngtag('config', 'G-LJTSY1CPNY');`
+      ]
+    ],
     ['meta', { name: 'theme-color', content: '#6ebddf' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['meta', { name: 'robots', content: 'noindex' }]
   ],
 
   locales: {
@@ -37,6 +44,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    domain: 'https://guide.cryptovision.app',
     repo: 'cryptovisionapp/cryptovision-guide',
     editLinks: true,
     docsDir: 'docs/src',
@@ -114,10 +122,26 @@ module.exports = {
   },
 
   /**
-   * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
+   * Apply plugins，ref：https://v1.vuepress.vuejs.org/plugin/
    */
   plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
+    [
+      'seo',
+      {
+        description: ($page, $site) => $page.frontmatter.description || ($page.excerpt && $page.excerpt.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g, "")) || $site.description || "",
+        title: ($page, $site) => $page.title || $site.title,
+        image: ($page, $site) => $page.frontmatter.image && (($site.themeConfig.domain || '') + $page.frontmatter.image) || 'https://guide.cryptovision.app/thumbnail.jpg',
+      }
+    ],
+    [
+      'sitemap',
+      {
+        hostname: 'https://guide.cryptovision.app',
+        exclude: ['/404.html'],
+        dateFormatter: val => {
+          return new Date().toISOString()
+        }
+      }
+    ]
   ]
 }
