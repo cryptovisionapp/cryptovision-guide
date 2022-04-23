@@ -6,7 +6,7 @@
 - [Avalanche (C)](./account-chain-avalanche.md)
 - [BNB Chain](./account-chain-bnb.md)
 - [Cronos](./account-chain-cronos.md)
-- [Ethereum](./account-chain-ethereum.md)
+- [イーサリアム（Ethereum）](./account-chain-ethereum.md)
 - [Fantom](./account-chain-fantom.md)
 - [Gnosis](./account-chain-gnosis.md)
 - [Harmony](./account-chain-harmony.md)

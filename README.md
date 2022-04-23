@@ -1,1 +1,1 @@
-# Crypto Vision Guide
+# CryptoVision Guide
