@@ -1,3 +1,3 @@
-# STEPN アカウントの追加方法
+# How to add "STEPN" accounts
 
 Waiting for your edits.
