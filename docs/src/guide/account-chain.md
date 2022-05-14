@@ -13,6 +13,7 @@
 - [HECO (Huobi ECO)](./account-chain-heco.md)
 - [Moonbeam](./account-chain-moonbeam.md)
 - [Moonriver](./account-chain-moonriver.md)
+- [Osmosis](./account-chain-osmosis.md)
 - [Polygon](./account-chain-polygon.md)
 - [Ronin](./account-chain-ronin.md)
 - [Solana](./account-chain-solana.md)
