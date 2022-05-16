@@ -5,6 +5,7 @@
 - [Aurora](./account-chain-aurora.md)
 - [Avalanche (C)](./account-chain-avalanche.md)
 - [BNB Chain](./account-chain-bnb.md)
+- [Cosmos Hub](./account-chain-cosmos.md)
 - [Cronos](./account-chain-cronos.md)
 - [Ethereum](./account-chain-ethereum.md)
 - [Fantom](./account-chain-fantom.md)
