@@ -1,15 +1,15 @@
-# Guide for CryptoVision
+# CryptoVision 使い方ガイド
 
-## Account
+## アカウントの登録
 
-- [チェーンアカウントの追加方法](./account-chain.md)
-- [取引所アカウントの追加方法](./account-exchange.md)
-- [サービスアカウントの追加方法](./account-service.md)
+- [チェーン上のアカウントを登録する](./account-chain.md)
+- [取引所のアカウントを登録する](./account-exchange.md)
+- [(ゲームなどの)アプリのアカウントを登録する](./account-service.md)
 
-## Transaction
+## 取引の仕訳
 
 Waiting for your edits.
 
-## Portfolio
+## ポートフォリオの管理
 
 Waiting for your edits.
