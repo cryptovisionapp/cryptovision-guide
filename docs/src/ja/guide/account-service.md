@@ -1,4 +1,4 @@
-# Services
+# (ゲームなどの)アプリのアカウントを登録する
 
 - [Axie Infinity](./account-service-axieinfinity.md)
 - [Metamask](./account-service-metamask.md)
