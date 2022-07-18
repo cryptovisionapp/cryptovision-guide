@@ -1,4 +1,4 @@
-# Chains
+# チェーン上のアカウントを追加する
 
 - [Arbitrum](./account-chain-arbitrum.md)
 - [Astar (EVM)](./account-chain-astar.md)
