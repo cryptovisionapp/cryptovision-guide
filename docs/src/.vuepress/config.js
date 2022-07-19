@@ -108,12 +108,26 @@ module.exports = {
         sidebar: {
           '/ja/guide/': [
             {
-              title: 'Account',
+              title: 'アカウントの登録',
               collapsable: false,
               children: [
                 'account-chain',
                 'account-exchange',
                 'account-service',
+              ]
+            },{
+              title: 'ポートフォリオの管理',
+              collapsable: false,
+              children: [
+                'portfolio',
+              ]
+            },{
+              title: '取引の仕訳',
+              collapsable: false,
+              children: [
+                'transaction-window',
+                'transaction-journal',
+                'transaction-tax',
               ]
             }
           ],

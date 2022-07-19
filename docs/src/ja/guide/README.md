@@ -10,7 +10,7 @@
 
 - [チェーン上のアカウントを登録する](./account-chain.md)
 - [取引所のアカウントを登録する](./account-exchange.md)
-- [(ゲームなどの)アプリのアカウントを登録する](./account-service.md)
+- [(DeFiプロトコル・ゲームやウォレットなどの)アプリのアカウントを登録する](./account-service.md)
 
 ### ポートフォリオの管理
 - [ポートフォリオ画面の見方](./portfolio.md)
@@ -19,6 +19,7 @@
 - [取引画面の見方](./transaction-window)
 - [それぞれの仕訳を理解する](./transaction-journal)
 - [税金計算の仕方](./transaction-tax)
+
 
 
 
