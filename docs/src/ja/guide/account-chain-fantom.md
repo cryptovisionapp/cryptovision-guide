@@ -1,34 +1,6 @@
 # Fantom アカウントの追加方法
 
-このページでは CryptoVision に Fantom アカウントを追加する方法を説明します。  
-Fantom アカウントを追加するには FTMScan API Key が必要になるので、その取得方法も解説します。
-
-## FTMScan API Key の取得方法
-
-![](../../assets/img/ftmscan-apikey-1.jpg)
-
-FTMScan ([ftmscan.com](https://ftmscan.com)) にアクセスし、「Sign In」ボタンをクリックします。
-
-![](../../assets/img/ftmscan-apikey-2.jpg)
-
-Username と Password を入力してログインします。  
-※ アカウントがない場合は「Click to sign up」ボタンを押してアカウントを作成してください。
-
-![](../../assets/img/ftmscan-apikey-3.jpg)
-
-ログインしたら「API Keys」ボタンを押して API Key の管理ページに移動します。
-
-![](../../assets/img/ftmscan-apikey-4.jpg)
-
-![](../../assets/img/ftmscan-apikey-5.jpg)
-
-API Key がない場合は「Add」ボタンをクリックして新しい API Key の作成モーダルを開き、「Create New API Key」ボタンをクリックして API Key を作成します。
-
-![](../../assets/img/ftmscan-apikey-6.jpg)
-
-API Key の作成に完了したらコピーしてください。
-
-※ 作成した API Key は削除しないでください
+このページでは CryptoVision に Fantom アカウントを追加する方法を説明します。 
 
 ## Fantom アカウントの登録
 
@@ -36,7 +8,6 @@ API Key の作成に完了したらコピーしてください。
 
 ![](../../assets/img/account-chain-fantom-ja-1.jpg)
 
-API Key の欄に FTMScan で取得した API Key を入力します。  
 Wallet Address にはあなたの Fantom ウォレットのアドレスを入力してください。  
 ERC1155 CSV Datas には FTMScan で取得した ERC 1155 Token Txns の CSV ファイルを必要であればアップロードしてください。
 
@@ -46,7 +17,6 @@ ERC1155 CSV Datas には FTMScan で取得した ERC 1155 Token Txns の CSV フ
 
 ![](../../assets/img/account-chain-fantom-ja-2.jpg)
 
-API Key の欄に FTMScan で取得した API Key を入力します。  
 Wallet Information の欄にウォレット名とアドレスを１行ずつ入力します。
 
 入力後、「登録」ボタンをクリックするとアカウントの登録が完了し、トランザクションの取得・解析が開始されます。
