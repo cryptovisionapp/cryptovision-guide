@@ -67,6 +67,10 @@ module.exports = {
             link: '/qa/'
           },
           {
+            text: 'Release',
+            link: '/release/',
+          },
+          {
             text: 'App',
             link: 'https://cryptovision.app'
           }
@@ -99,6 +103,10 @@ module.exports = {
           {
             text: 'Q&A',
             link: '/ja/qa/'
+          },
+          {
+            text: 'Release',
+            link: '/ja/release/',
           },
           {
             text: 'App',
