@@ -12,6 +12,7 @@
 - [Gnosis](./account-chain-gnosis.md)
 - [Harmony](./account-chain-harmony.md)
 - [HECO (Huobi ECO)](./account-chain-heco.md)
+- [MCH Verse](./account-chain-mch-verse.md)
 - [Moonbeam](./account-chain-moonbeam.md)
 - [Moonriver](./account-chain-moonriver.md)
 - [Osmosis](./account-chain-osmosis.md)
