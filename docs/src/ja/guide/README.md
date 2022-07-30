@@ -18,7 +18,7 @@
 ### 取引の仕訳
 - [取引画面の見方](./transaction-window)
 - [それぞれの仕訳を理解する](./transaction-journal)
-- [税金計算の仕方](./transaction-tax)
+- [税金計算について](./transaction-tax)
 
 
 

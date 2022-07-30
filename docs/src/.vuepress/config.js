@@ -116,6 +116,13 @@ module.exports = {
         sidebar: {
           '/ja/guide/': [
             {
+              title: 'はじめに(ビギナーズガイド)',
+              collapsable: false,
+              children: [
+                'introduction',
+              ]
+            },
+            {
               title: 'アカウントの登録',
               collapsable: false,
               children: [
