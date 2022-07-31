@@ -10,7 +10,7 @@ description: 2022/07/31 | バグの修正
 
 ## 2022/07/28
 
-- My Cropto Heroes 及び MCH Verse Chain に対応
+- My Crypto Heroes 及び MCH Verse Chain に対応
 - ダッシュボード画面の改善
 - バグの修正
 
