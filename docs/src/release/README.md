@@ -10,7 +10,7 @@ description: 2022/07/31 | Fix bugs
 
 ## 2022-07-28
 
-- Support My Cropto Heroes & MCH Verse Chain
+- Support My Crypto Heroes & MCH Verse Chain
 - Improve Dashboard screen
 - Fix bugs
 
