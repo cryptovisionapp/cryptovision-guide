@@ -1,4 +1,4 @@
-# チェーン上のアカウントを追加する
+# ウォレット（ブロックチェーン）アカウントを登録する
 
 - [Arbitrum](./account-chain-arbitrum.md)
 - [Astar (EVM)](./account-chain-astar.md)
