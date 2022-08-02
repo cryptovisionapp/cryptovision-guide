@@ -18,9 +18,9 @@
 
 ### 取引の確認
 
-- [取引画面の見方](./transaction-window)
-- [取引分類の意味を理解する](./transaction-journal)
-- [税金計算について](./transaction-tax)
+- [取引画面の見方](./transaction-window.md)
+- [取引分類の意味を理解する](./transaction-journal.md)
+- [税金計算について](./transaction-tax.md)
 
 ## よくある質問
 
