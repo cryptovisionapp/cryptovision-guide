@@ -1,4 +1,4 @@
-# ウォレット（ブロックチェーン）アカウントを登録する
+# ブロックチェーン上の（ウォレット）アドレスを登録する
 
 - [Arbitrum](./account-chain-arbitrum.md)
 - [Astar (EVM)](./account-chain-astar.md)

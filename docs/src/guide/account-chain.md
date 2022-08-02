@@ -1,4 +1,4 @@
-# Chains
+# How to add chain accounts
 
 - [Arbitrum](./account-chain-arbitrum.md)
 - [Astar (EVM)](./account-chain-astar.md)
