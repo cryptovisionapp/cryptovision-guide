@@ -1,4 +1,4 @@
-# (ゲームなどの)アプリのアカウントを登録する
+# （ウォレット・DeFi・BCG等の）サービスアカウントを登録する
 
 - [Axie Infinity](./account-service-axieinfinity.md)
 - [Metamask](./account-service-metamask.md)
