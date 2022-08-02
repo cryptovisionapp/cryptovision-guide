@@ -137,7 +137,7 @@ module.exports = {
                 'portfolio',
               ]
             },{
-              title: '取引の仕訳',
+              title: '取引の確認',
               collapsable: false,
               children: [
                 'transaction-window',

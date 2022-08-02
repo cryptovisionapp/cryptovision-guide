@@ -40,7 +40,7 @@
 
 ![](../../assets/img/transaction-window-10.png)
 
-各取引の意味については、　[それぞれの仕訳を理解する](./transaction-journal.md)　で説明しています。
+各取引の意味については、[取引分類の意味を理解する](./transaction-journal.md)　で説明しています。
 
 
 
