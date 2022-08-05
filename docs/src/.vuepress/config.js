@@ -142,6 +142,7 @@ module.exports = {
               children: [
                 'transaction-window',
                 'transaction-journal',
+                'transaction-example',
               ]
             }
           ],
