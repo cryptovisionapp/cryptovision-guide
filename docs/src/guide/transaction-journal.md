@@ -2,7 +2,7 @@
 
 損益及び税金の計算や、ポートフォリオ管理を正しく行うために、「確認を推奨」と表示されている取引は、取引分類を確認・修正をすることをお勧めしています。
 
-<img src="../../assets/img/transaction-journal-ja-1.png" width="60%">
+<img src="../../assets/img/transaction-journal-1.png" width="60%">
 
 適切な取引分類を選択するためには、各取引分類の意味を理解する必要があります。  
 このページでは、CryptoVision の取引分類について詳細に説明するので、是非ご確認ください。
@@ -86,7 +86,7 @@
 
 <br />
 
-![](../../assets/img/transaction-journal-ja-2.png)
+![](../../assets/img/transaction-journal-2.png)
 
 ### 意味
 
@@ -108,7 +108,7 @@
 ## 購入
 
 <!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-3.png) -->
+<!-- ![](../../assets/img/transaction-journal-3.png) -->
 
 ### 意味
 
@@ -128,7 +128,7 @@
 ## 売却
 
 <!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-4.png) -->
+<!-- ![](../../assets/img/transaction-journal-4.png) -->
 
 ### 意味
 
@@ -147,7 +147,7 @@
 
 ## ウォレット間送金
 
-![](../../assets/img/transaction-journal-ja-5.png)
+![](../../assets/img/transaction-journal-5.png)
 
 ### 意味
 
@@ -170,7 +170,7 @@
 
 ## 取引所送金
 
-![](../../assets/img/transaction-journal-ja-6.png)
+![](../../assets/img/transaction-journal-6.png)
 
 
 ### 意味
@@ -193,7 +193,7 @@
 
 ## ブリッジ
 
-![](../../assets/img/transaction-journal-ja-7.png)
+![](../../assets/img/transaction-journal-7.png)
 
 ### 意味
 
@@ -214,7 +214,7 @@
 ## エアドロップ
 
 <!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-8.png) -->
+<!-- ![](../../assets/img/transaction-journal-8.png) -->
 
 ### 意味
 
@@ -235,7 +235,7 @@
 
 ## ステーキング報酬
 
-![](../../assets/img/transaction-journal-ja-9.png)
+![](../../assets/img/transaction-journal-9.png)
 
 
 ### 意味
@@ -257,7 +257,7 @@
 ## 利息受取
 
 <!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-10.png) -->
+<!-- ![](../../assets/img/transaction-journal-10.png) -->
 ### 意味
 
 トークンの貸し出しなどによって得られた利息を指します。
@@ -279,7 +279,7 @@
 ## マイニング
 
 <!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-11.png) -->
+<!-- ![](../../assets/img/transaction-journal-11.png) -->
 
 ### 意味
 
@@ -297,7 +297,7 @@
 
 ## 収入
 
-![](../../assets/img/transaction-journal-ja-12.png)
+![](../../assets/img/transaction-journal-12.png)
 
 ### 意味
 
@@ -316,7 +316,7 @@
 ※ 「収入」では使用されません。
 
 ## 受取
-![](../../assets/img/transaction-journal-ja-13.png)
+![](../../assets/img/transaction-journal-13.png)
 
 ### 意味
 
@@ -335,7 +335,7 @@
 
 ## スキャム
 
-![](../../assets/img/transaction-journal-ja-14.png)
+![](../../assets/img/transaction-journal-14.png)
 
 ### 意味
 
@@ -352,7 +352,7 @@
 
 ## 支払
 
-![](../../assets/img/transaction-journal-ja-15.png)
+![](../../assets/img/transaction-journal-15.png)
 
 ### 意味
 
@@ -371,7 +371,7 @@
 
 ## 譲渡
 
-![](../../assets/img/transaction-journal-ja-16.png)
+![](../../assets/img/transaction-journal-16.png)
 
 ### 意味
 
@@ -389,7 +389,7 @@
 
 ## フリーミント
 
-![](../../assets/img/transaction-journal-ja-17.png)
+![](../../assets/img/transaction-journal-17.png)
 
 ### 意味
 
@@ -409,7 +409,7 @@ NFTを無償で発行(ミント)することを指します。
 
 ## NFTミント
 
-![](../../assets/img/transaction-journal-ja-18.png)
+![](../../assets/img/transaction-journal-18.png)
 
 ### 意味
 
@@ -429,7 +429,7 @@ NFTの発行（ミント）のために支払った暗号資産です。
 
 ## NFT購入
 
-![](../../assets/img/transaction-journal-ja-19.png)
+![](../../assets/img/transaction-journal-19.png)
 
 ### 意味
 
@@ -449,7 +449,7 @@ NFTの購入のために支払った暗号資産です。
 
 ## NFT売却
 
-![](../../assets/img/transaction-journal-ja-20.png)
+![](../../assets/img/transaction-journal-20.png)
 
 ### 意味
 
@@ -469,7 +469,7 @@ NFTを売却して、代わりに暗号資産を対価として得た取引で�
 
 ## NFT取得
 
-![](../../assets/img/transaction-journal-ja-21.png)
+![](../../assets/img/transaction-journal-21.png)
 
 ### 意味
 
@@ -487,7 +487,7 @@ NFTを売却して、代わりに暗号資産を対価として得た取引で�
 
 ## NFT譲渡
 
-![](../../assets/img/transaction-journal-ja-22.png)
+![](../../assets/img/transaction-journal-22.png)
 
 ### 意味
 
@@ -506,7 +506,7 @@ NFTを売却して、代わりに暗号資産を対価として得た取引で�
 
 ## NFT交換
 
-![](../../assets/img/transaction-journal-ja-23.png)
+![](../../assets/img/transaction-journal-23.png)
 
 
 ### 意味
@@ -527,7 +527,7 @@ NFTのコントラクトアドレスが変わった時など、同じ価値で�
 
 ## LP提供
 
-![](../../assets/img/transaction-journal-ja-24.png)
+![](../../assets/img/transaction-journal-24.png)
 
 ### 意味
 
@@ -548,7 +548,7 @@ LP提供用のアドレスに預けたトークンです。
 
 ## LP解除
 
-![](../../assets/img/transaction-journal-ja-25.png)
+![](../../assets/img/transaction-journal-25.png)
 
 ### 意味
 
@@ -568,7 +568,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 
 ## 預け入れ
 
-![](../../assets/img/transaction-journal-ja-26.png)
+![](../../assets/img/transaction-journal-26.png)
 
 ### 意味
 
@@ -587,7 +587,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 
 ## 引き出し
 
-![](../../assets/img/transaction-journal-ja-27.png)
+![](../../assets/img/transaction-journal-27.png)
 
 ### 意味
 
@@ -608,7 +608,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 ## 借り入れ
 
 <!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-28.png) -->
+<!-- ![](../../assets/img/transaction-journal-28.png) -->
 
 ### 意味
 
@@ -630,7 +630,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 ## 借り入れ返済
 
 <!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-29.png) -->
+<!-- ![](../../assets/img/transaction-journal-29.png) -->
 
 ### 意味
 
@@ -663,7 +663,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 ## 実行失敗
 
 <!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-30.png) -->
+<!-- ![](../../assets/img/transaction-journal-30.png) -->
 
 ### 意味
 
@@ -673,7 +673,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 ## Approve
 
 <!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-31.png) -->
+<!-- ![](../../assets/img/transaction-journal-31.png) -->
 
 ### 意味
 
@@ -683,7 +683,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 ## Revoke
 
 <!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-32.png) -->
+<!-- ![](../../assets/img/transaction-journal-32.png) -->
 
 ### 意味
 

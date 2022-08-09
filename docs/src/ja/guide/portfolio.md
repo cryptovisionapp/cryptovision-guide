@@ -2,7 +2,7 @@
 
 ## ダッシュボードタブ
 
-![](../../assets/img/portfolio-1.png)
+![](../../assets/img/portfolio-ja-1.png)
 
 ### 上部の警告
 
@@ -31,13 +31,11 @@ EthereumネットワークでのERC-1155のCSVのアップロード方法につ�
 ### 所有暗号資産・所有NFT
 
 「対象日」時点での暗号資産とNFTの所持額をご確認いただけます。
-計算方法は以下の通りです。 
-<br />
-<br>
-**暗号資産** : 現在の所有量に時価を掛けた価格。時価に関して、法定通貨(ドル、円、ユーロなど)建ての価格は[Coingecko](https://www.coingecko.com/)のAPIを使用しています。 <br />
+計算方法は以下の通りです。  
+**暗号資産** : 現在の所有量に時価を掛けた価格。時価に関して、法定通貨(ドル、円、ユーロなど)建ての価格は[Coingecko](https://www.coingecko.com/)のAPIを使用しています。　　
 **NFT** : 所有NFTの取得時の価格の総額(NFTごとの固有価格になるため)。取得時の価格に関して、購入した時に支払った暗号資産の、購入時点での法定通貨建の価格(暗号資産と同じくCoingeckoのAPIから取得)を算出しています。
 
-![](../../assets/img/portfolio-2.png)
+![](../../assets/img/portfolio-ja-2.png)
 
 ### 損益概要
 
@@ -51,7 +49,7 @@ EthereumネットワークでのERC-1155のCSVのアップロード方法につ�
 ### 暗号資産所有状況
 「対象日」時点での各暗号資産の所有量と価格、取得時の価格、含み損益を表示しています。
 
-![](../../assets/img/portfolio-3.png)
+![](../../assets/img/portfolio-ja-3.png)
 
 ### チェーン別資産比率
 「対象日」時点での暗号資産、NFT合わせたトータルの資産額について、チェーン別の資産比率を表示しています。
@@ -62,21 +60,21 @@ EthereumネットワークでのERC-1155のCSVのアップロード方法につ�
 
 ## NFTタブ
 
-![](../../assets/img/portfolio-4.png)
+![](../../assets/img/portfolio-ja-4.png)
 
 「対象日」時点での、所持しているNFTの一覧を取得できます。
 
-![](../../assets/img/portfolio-5.png)
+![](../../assets/img/portfolio-ja-5.png)
 
 右上の漏斗マークから、チェーン別など条件付けをして、表示するNFTのフィルターを設定できます。
 
 また、右上のタブから表示形式を設定することができ、
 
-![](../../assets/img/portfolio-6.png)
+![](../../assets/img/portfolio-ja-6.png)
 
 リスト形式や
 
-![](../../assets/img/portfolio-7.png)
+![](../../assets/img/portfolio-ja-7.png)
 
 詳細を表示する形式などを選ぶことができます。
 
