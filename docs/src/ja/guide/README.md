@@ -20,8 +20,7 @@
 
 - [取引画面の見方](./transaction-window.md)
 - [取引分類の意味を理解する](./transaction-journal.md)
-- [税金計算について](./transaction-tax.md)
-
+- [よくある取引を分類してみる](./transaction-example.md)
 ## よくある質問
 
 今後更新予定です

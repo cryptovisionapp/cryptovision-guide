@@ -78,12 +78,33 @@ module.exports = {
         sidebar: {
           '/guide/': [
             {
-              title: 'Account',
+              title: 'Introduction(for begineers)',
+              collapsable: false,
+              children: [
+                'Introduction',
+              ]
+            },
+            {
+              title: 'Adding your accounts',
               collapsable: false,
               children: [
                 'account-chain',
                 'account-exchange',
                 'account-service',
+              ]
+            },{
+              title: 'Exploring PortFolio Dashboard',
+              collapsable: false,
+              children: [
+                'portfolio',
+              ]
+            },{
+              title: 'Exploring Transaction List Page',
+              collapsable: false,
+              children: [
+                'transaction-window',
+                'transaction-journal',
+                'transaction-example',
               ]
             }
           ],
@@ -142,7 +163,7 @@ module.exports = {
               children: [
                 'transaction-window',
                 'transaction-journal',
-                'transaction-tax',
+                'transaction-example',
               ]
             }
           ],
