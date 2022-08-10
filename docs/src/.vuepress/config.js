@@ -81,7 +81,7 @@ module.exports = {
               title: 'Introduction(for begineers)',
               collapsable: false,
               children: [
-                'Introduction',
+                'introduction',
               ]
             },
             {
