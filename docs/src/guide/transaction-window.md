@@ -48,17 +48,17 @@ What each transaction classification means is explained in [Understanding the di
 
 "Highly Accurate" transactions are transactions that you do not need to confirm because CryptoVision's proprietary algorithm has classified it with a sufficiently high degree of accuracy.
 They are marked in green.
-**You don't need to do anything with this one. **
+**You don't need to do anything with this one.**
 
 #### ③Confirmed
 
 ![](../assets/img/transaction-window-6.png)
 
-①「要確認」にも掲載した図ですが、要確認の取引を「確認」すると、「確認済」のステータスになり、緑色になります。
+As shown in the figure posted under "①Confirmation Required," when a transaction requiring confirmation is "confirmed," the status becomes "confirmed" and turns green.
 
-#### ④ルール
+#### ④Rules
 
 ![](../assets/img/transaction-window-11.png)
 
-他の取引の分類を変更した時に「類似取引も同様に変更」をONの状態で変更すると、類似の取引も同じ分類として高精度に分類されます。この場合の承認ステータスは「ルール」となり、「高精度」と似たステータスになります。
-表示形式は、上記のように紫色になります。
+If you change the classification of other transactions with "Also change similar transaction's action" on, similar transactions will be classified as the same classification with high accuracy. In this case, the approval status will be "Rule", which is similar to "Highly Accurate".
+The display format will be purple as shown above.

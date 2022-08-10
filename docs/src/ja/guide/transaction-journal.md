@@ -213,8 +213,7 @@
 
 ## エアドロップ
 
-<!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-8.png) -->
+![](../../assets/img/transaction-journal-ja-8.png)
 
 ### 意味
 
@@ -256,8 +255,7 @@
 
 ## 利息受取
 
-<!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-10.png) -->
+![](../../assets/img/transaction-journal-ja-10.png)
 ### 意味
 
 トークンの貸し出しなどによって得られた利息を指します。
@@ -607,8 +605,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 
 ## 借り入れ
 
-<!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-28.png) -->
+![](../../assets/img/transaction-journal-ja-28.png)
 
 ### 意味
 
@@ -629,8 +626,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 
 ## 借り入れ返済
 
-<!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-29.png) -->
+![](../../assets/img/transaction-journal-ja-29.png)
 
 ### 意味
 
@@ -662,8 +658,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 
 ## 実行失敗
 
-<!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-30.png) -->
+![](../../assets/img/transaction-journal-ja-30.png)
 
 ### 意味
 
@@ -672,8 +667,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 
 ## Approve
 
-<!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-31.png) -->
+![](../../assets/img/transaction-journal-ja-31.png)
 
 ### 意味
 
@@ -682,8 +676,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 
 ## Revoke
 
-<!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-32.png) -->
+![](../../assets/img/transaction-journal-ja-32.png)
 
 ### 意味
 
@@ -691,7 +684,7 @@ LP提供に対して付与された、いわゆる「LPトークン」です。
 トークンの移動は発生しないため、（ガス代を除いて）損益計算の対象にはなりません。
 
 ## Contract実行
-
+![](../../assets/img/transaction-journal-ja-33.png)
 ### 意味
 
 自分のウォレットに関連するトークンの移動が発生しない取引です。  
