@@ -1,70 +1,64 @@
 # Exploring the Transaction Page
 
 
-## 画面全体の見方
+## Exploring the Transaction Page
 
-![](../../assets/img/transaction-window-1.png)
+![](../assets/img/transaction-window-1.png)
 
-登録したアドレスの取引一覧が見られる画面です。
+You will see a list of transactions of the address you have registered.  
 
+<img src="../assets/img/transaction-window-2.png" width="60%"> 
+
+You can sort the list in ascending or descending order by pressing the "Datetime" button in the upper right corner of the window. By default, the list is sorted in descending order.
+![](../assets/img/transaction-window-3.png)
+
+You can also get a list of transactions in list format by pressing the "Collapse" tab in the upper right corner,
+
+![](../assets/img/transaction-window-4.png)
+
+and you can also get a list of the details of each transaction by pressing the "Expand" tab.
+
+## Classify Transactions
+
+We recommend that you journalize transactions on a regular basis for the purpose of calculating taxes to be paid at the end of the fiscal year and for your own portfolio management.
+
+### Approval status of transactions
+Transactions are classified into four categories based on their approval status.
+
+#### ①Confirmation Required  
+<img src="../assets/img/transaction-window-5.png" width="60%">  
 <br />
-<img src="../../assets/img/transaction-window-2.png" width="60%">
 
-<br />
-右上にある、「Datetime」のところを押すと、昇順か降順かでソートすることができます。デフォルトでは降順でソートされています。
-![](../../assets/img/transaction-window-3.png)
+"Confirmation Required" transactions are transactions that CryptoVision's proprietary algorithm has classified with a high degree of certainty, but that **you(users) need to confirm.** It is indicated by Yellow color.**If the transaction classification is correct, click the small check mark to the left.**  
 
-また右上の「リスト」タブを押すとリスト形式で取引一覧を取得することができ、
+Then it will turn green, as shown below.  
+<img src="../assets/img/transaction-window-6.png" width="60%">
 
-![](../../assets/img/transaction-window-4.png)
+**If the transaction classification is improper or you are not sure if it is correct, click on the transaction classification ("Receive NFT" in the above figure)**.
 
-「詳細」タブを押すと、各取引の詳細の一覧を表示することができます。
+Then a pop-up will appear from the right, as shown below, and click on the appropriate journal entry.
 
-## 取引を分類する
+![](../assets/img/transaction-window-10.png)
 
-年度末に払う税金の計算のためや、ご自身のポートフォリオ管理のため、取引は定期的に仕訳することをお勧めします。
+What each transaction classification means is explained in [Understanding the different transaction classifications](./transaction-journal.md).
 
-### 取引の承認状態について
-取引は、その承認状態に基づいて4つに分類されます。
+#### ②Highly Accurate
 
-#### ①要確認
-<img src="../../assets/img/transaction-window-5.png" width="60%">
+<img src="../assets/img/transaction-window-7.png" width="60%">
 
+"Highly Accurate" transactions are transactions that you do not need to confirm because CryptoVision's proprietary algorithm has classified it with a sufficiently high degree of accuracy.
+They are marked in green.
+**You don't need to do anything with this one. **
 
-「要確認」とは、CryptoVision独自のアルゴリズムである程度高い確度で分類したものの、**あなた(ユーザー)が確認する必要がある取引です。**
-黄色で表示されます。
-**取引分類が合っていれば、左にある小さなチェックマークをクリックしましょう。**
-そうすると下のように緑に変わります。
+#### ③Confirmed
 
-<img src="../../assets/img/transaction-window-6.png" width="60%">
-
-**取引分類が間違っている、あるいは合っているかわからないときは,取引内容(上の図の場合は「NFT所得」)をクリックしましょう**
-
-そうすると、以下のようにポップアップが右から現れるので、該当する仕訳をクリックしましょう。
-
-![](../../assets/img/transaction-window-10.png)
-
-各取引の意味については、[取引分類の意味を理解する](./transaction-journal.md)　で説明しています。
-
-#### ②高精度
-
-<img src="../../assets/img/transaction-window-7.png" width="60%">
-
-「高精度」とは、CryptoVision独自のアルゴリズムで十分に高い確度で分類したので、あなたが確認する必要のない取引です。
-緑色で表示されます。
-**こちらについては特に処理する必要はありません。**
-
-ちなみに、上の図のように、「Opensea」の取引など、アルゴリズムで解析できたものについて詳細情報を記載する場合があります。
-
-#### ③確認済
-
-<img src="../../assets/img/transaction-window-6.png" width="60%">
+<img src="../assets/img/transaction-window-6.png" width="60%">
 
 ①「要確認」にも掲載した図ですが、要確認の取引を「確認」すると、「確認済」のステータスになり、緑色になります。
 
 #### ④ルール
 
-<img src="../../assets/img/transaction-window-11.png" width="60%">
+<!-- <img src="../assets/img/transaction-window-11.png" width="60%"> -->
 
 他の取引の分類を変更した時に「類似取引も同様に変更」をONの状態で変更すると、類似の取引も同じ分類として高精度に分類されます。この場合の承認ステータスは「ルール」となり、「高精度」と似たステータスになります。
 表示形式は、上記のように紫色になります。
