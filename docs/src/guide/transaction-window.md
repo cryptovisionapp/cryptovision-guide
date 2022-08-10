@@ -20,7 +20,7 @@ and you can also get a list of the details of each transaction by pressing the "
 
 ## Classify Transactions
 
-We recommend that you journalize transactions on a regular basis for the purpose of calculating taxes to be paid at the end of the fiscal year and for your own portfolio management.
+We recommend that you journalize transactions on a regular basis for the purpose of calculating profits and losses and for your own portfolio management.
 
 ### Approval status of transactions
 Transactions are classified into four categories based on their approval status.
