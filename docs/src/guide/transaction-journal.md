@@ -1,4 +1,4 @@
-# Understanding the different transaction classifications
+# Understanding different transaction classifications
 
 We recommend that you journalize transactions on a regular basis for the purpose of calculating profits and losses and for your own portfolio management.
 
