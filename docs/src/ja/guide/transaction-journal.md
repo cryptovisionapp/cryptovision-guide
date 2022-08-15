@@ -107,8 +107,7 @@
 
 ## 購入
 
-<!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-3.png) -->
+![](../../assets/img/transaction-journal-ja-3.png)
 
 ### 意味
 
@@ -127,8 +126,7 @@
 
 ## 売却
 
-<!-- TODO: スクショ挿入 -->
-<!-- ![](../../assets/img/transaction-journal-ja-4.png) -->
+![](../../assets/img/transaction-journal-ja-4.png)
 
 ### 意味
 
