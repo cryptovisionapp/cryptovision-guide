@@ -1,4 +1,4 @@
-# Classify common transactions.
+# Classify common transactions
 
 You will see every transaction classification explained comprehensively in [Understanding different transaction classifications](./transaction-journal.md).
 However, many of you probably still want to  know how to classify actual transactions.
