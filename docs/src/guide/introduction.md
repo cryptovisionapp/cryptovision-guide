@@ -1,25 +1,29 @@
-# このガイドの使い方(初心者向け)
+# How to use this guide (for beginners)
 
-CryptoVisionは税金計算やポートフォリオ管理のためにブロックチェーン取引分析サービスです。  
-マルチチェーン・マルチウォレットに対応しており、ブロックチェーン上のあらゆる取引の解析・要約・可視化が可能です。
+CryptoVision is a blockchain transaction analysis service for tax calculations and portfolio management and so on.  
+It supports multi-chain and multi-wallet, allowing you to analyze, summarize, and visualize any transaction on the blockchain.
 
-使用するためには、まず分析したいアカウントを登録する必要があります。
-登録したいアカウントの種類によって、以下の3種類のページを用意しているので、必要に応じて参照してください。
+To use the service, you first need to register the accounts you wish to analyze.
+Depending on the type of account you wish to register, the following three types of pages are available for your reference as needed.
 
-- [ブロックチェーン上の（ウォレット）アドレスを登録する](./account-chain.md)
-- [取引所アカウントを登録する](./account-exchange.md)
-- [（ウォレット・DeFi・BCG等の）サービスアカウントを登録する](./account-service.md)
+- [How to add chain accounts](./account-chain.md)
+- [How to add exchange accounts](./account-exchange.md)
+- [How to add services(like wallets,DeFi, GameFi etc) accounts](./account-service.md)
 
-登録した後は、登録したアカウントに紐づいた暗号資産やNFTのポートフォリオを、一覧で確認することができます。
-具体的な見方は、以下の記事で解説しています。
 
-- [ポートフォリオ画面の見方](./portfolio.md)
+After registering, you will see the portfolio of cryptocurrencies and NFTs associated with your registered account at a glance.
+How to view the portfolio is explained in the following article.
 
-自分のポートフォリオを正確に表示したり、最終的に税金計算をするためには、各取引をしっかり分類する必要があります。また、各取引の詳細を確認したいこともあるでしょう。
-取引画面の使い方や取引分類は、以下の記事で解説しています。
+- [Exploring PortFolio Dashboard](./portfolio.md)
 
-- [取引画面の見方](./transaction-window.md)
-- [取引分類の意味を理解する](./transaction-journal.md)
+In order to accurately view your portfolio and at the end calculate your taxes, you will need to categorize each transaction carefully. You may also want to review the details of each transaction.
+Following articles explain how to navigate the transaction page and how to categorize transactions.
+
+
+- [Exploring the Transaction Page](./transaction-window.md)
+- [Understanding different transaction classifications](./transaction-journal.md)
+- [Classify common transactions](./transaction-example.md)
+
 
 
 
