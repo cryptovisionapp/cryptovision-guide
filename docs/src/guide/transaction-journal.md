@@ -93,8 +93,7 @@ Profit/Loss is going to be calculated as "market value at the time of the transa
 
 ## Buy
 
-<!-- TODO: insert screenshot. -->
-<!-- ![](../assets/img/transaction-journal-3.png) -->
+![](../assets/img/transaction-journal-3.png)
 
 ### What this classification means?
 Transactions in which you purchase tokens(cryptocurrencies, NFTs) with legal tender (dollars, yen, euros, etc...).
@@ -112,8 +111,7 @@ Profit/Loss is not going to be calculated.
 
 ## Sell
 
-<!-- TODO: insert squiggle  -->
-<!-- ![](../assets/img/transaction-journal4.png) -->
+![](../assets/img/transaction-journal-4.png)
 
 ### What this classification means?
 Transactions in which you sell tokens(cryptocurrencies, NFTs) and receive legal tender (dollars, yen, euros, etc...).
@@ -140,11 +138,11 @@ Transactions in which you transfer tokens(cryptocurrencies, NFTs) between wallet
 
 #### ①Acquired tokens
 
-Not used for "MoveBetweenWallets".
+※ Not used for "MoveBetweenWallets".
 
 #### ②Lost tokens
 
-Not used for "MoveBetweenWallets".
+※ Not used for "MoveBetweenWallets".
 
 #### ③Moved tokens (* Used only for "MoveBetweenWallets")
 
@@ -193,7 +191,7 @@ Profit/Loss is not going to be calculated.
 
 ## Airdrop
 
-<!-- ![](../assets/img/transaction-journal-8.png) -->
+![](../assets/img/transaction-journal-8.png)
 
 ### What this classification means?
 
@@ -229,10 +227,10 @@ The token market value at the time of the transaction is going to be added to th
 
 #### ②Lost tokens
 
-Not used for "StakingRewards".
+※ Not used for "StakingRewards".
 
 ## Interest
-<!-- ![](../assets/img/transaction-journal-10.png) -->
+![](../assets/img/transaction-journal-10.png)
 
 ### What this classification means?
 
@@ -247,7 +245,7 @@ The token market value at the time of the transaction is going to be added to th
 
 
 #### ②Lost tokens
-* Not used for "Interest".
+※ Not used for "Interest".
 
 ## Mining
 
@@ -267,7 +265,7 @@ The token market value at the time of the transaction is going to be calculated 
 The token market value at the time of the transaction is going to be added to the acquisition price.
 
 #### ②Lost tokens
-* Not used for "Mining".
+※ Not used for "Mining".
 
 ## Income
 ![](../assets/img/transaction-journal-12.png) 
@@ -287,7 +285,7 @@ The token market value at the time of the transaction is going to be added to th
 
 #### ②Lost tokens
 
-* Not used for "Income".
+※ Not used for "Income".
 
 ## Receive
 ![](../assets/img/transaction-journal-13.png)
@@ -306,7 +304,7 @@ Profit/Loss is not going to be calculated, but the token market value at the tim
 
 #### ②Lost tokens
 
-Not used for "Receive".
+※ Not used for "Receive".
 
 ## Scam
 ![](../assets/img/transaction-journal-14.png)
@@ -324,7 +322,7 @@ Profit/Loss is not going to be calculated, and its price is not going to be 　a
 
 #### ②Lost tokens
 
-Not used for "Scam".
+※ Not used for "Scam".
 
 ## Pay
 ![](../assets/img/transaction-journal-15.png)
@@ -336,7 +334,7 @@ Transactions in which you send cryptocurrencies to another address and the payme
 
 #### ①Acquired tokens
 
-Not used for "Pay".
+※ Not used for "Pay".
 
 #### ②Lost tokens
 
@@ -379,7 +377,7 @@ Since the market value at the time of issuance is 0, it is going to be added to 
 
 #### ②Lost tokens
 
-Not used for "FreeMint".
+※ Not used for "FreeMint".
 
 ## NFTMint
 
@@ -459,7 +457,7 @@ NFTs received. The market value at the time of receive is going to be added to t
 
 #### ②Lost tokens
 
-Not used for "ReceiveNFT".
+※ Not used for "ReceiveNFT".
 
 ## SendNFT
 
@@ -473,7 +471,7 @@ Transactions in which you send NFTs to another addresses for free.
 
 #### ①Acquired tokens
 
-Not used for "SendNFT".
+※ Not used for "SendNFT".
 
 #### ②Lost tokens
 
@@ -580,7 +578,7 @@ IF you lose those tokens, the "Profit/Loss" is calculated as the "market value a
 
 ## Borrow
 
-<!-- ![](../assets/img/transaction-journal-28.png) -->
+![](../assets/img/transaction-journal-28.png)
 
 ### What this classification means?
 
@@ -600,7 +598,7 @@ Profit/Loss is not calculated in any cases.
 
 ## BorrowBack
 
-<!-- ![](../assets/img/transaction-journal-29.png) -->
+![](../assets/img/transaction-journal-29.png)
 
 ### What this classification means?
 
@@ -631,7 +629,7 @@ Profit/Loss is going to be calculated according to the four automatically classi
 
 ## FailedExecution
 
-<!-- ![](../assets/img/transaction-journal-30.png) -->
+![](../assets/img/transaction-journal-30.png)
 
 ### What this classification means?
 
@@ -640,7 +638,7 @@ Since no token transfer happens, Profit/Loss is not going to be calculated (exce
 
 ## Approve
 
-<!-- ![](../assets/img/transaction-journal-31.png) -->
+![](../assets/img/transaction-journal-31.png)
 
 ### What this classification means?
 
@@ -649,7 +647,7 @@ Since no token transfer happens, Profit/Loss is not going to be calculated (exce
 
 ## Revoke
 
-<!-- ![](../assets/img/transaction-journal-32.png) -->
+![](../assets/img/transaction-journal-32.png)
 
 ### What this classification means?
 
