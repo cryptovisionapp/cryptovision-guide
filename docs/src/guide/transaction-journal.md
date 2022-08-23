@@ -27,6 +27,8 @@ We will explain the **Profit/Loss Calculation** for each transaction category, b
 - [MoveBetweenWallets](#MoveBetweenWallets)
 - [ReceiveFromCEX](#ReceiveFromCEX)
 - [SendToCEX](#MoveBetweenWallets)
+- [BridgeDeposit](#BridgeDeposit)
+- [BridgeWithdraw](#BridgeWithdraw)
 
 ### Income
 - [Airdrop](#Airdrop)
@@ -188,6 +190,40 @@ Profit/Loss is not going to be calculated.
 ※ Not used for "ReceiveFromCEX".  
     
 ※※If you have not uploaded all the transaction data from the exchange, you will end up transferring more than the amount of your assets onthe exchange to the address on the blockchain. In such cases, CryptoVision is going to process it as an insufficient amount owned error, and all tokens for the missing amount are going to be treated as having been purchased for free.
+
+## BridgeDeposit
+
+![](../assets/img/transaction-journal-7.png)
+
+### What this classification means?
+
+When moving assets from one blockchain to another, like from Ethereum to Polygon, the process of transferring the assets to a bridge address before the bridge.
+
+### Profit/Loss Calculation
+
+#### ①Acquired tokens
+
+※ Not used for "BridgeDeposit". 
+
+#### ②Lost tokens
+Tokens sent to the bridge address.  
+"Profit/loss on transaction" is going to be calculated as "market value at time of transaction - acquisition price".
+
+## BridgeWithdraw
+
+![](../assets/img/transaction-journal-7'.png)
+
+### What this classification means?
+When moving assets from one blockchain to another, like from Ethereum to Polygon, the process of receiving the assets on the destination chain.
+
+### Profit/Loss Calculation
+
+#### ①Acquired tokens
+Tokens you received on the bridged chain.  
+No profit and loss is going to be calculated, but the token market value at the time of the transaction is going to be added to the acquisition price.
+
+#### ②Lost tokens
+※ Not used for "BridgeWithdraw". 
 
 ## Airdrop
 
